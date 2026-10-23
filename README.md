@@ -3,21 +3,6 @@
 **"PhySwin: An Efficient and Physically-Informed Foundation Model for Multispectral Earth Observation"**
 *NeurIPS 2025*
 
-## Repository Status
-
-This repository is currently under active development. We apologize for the slow updates as we are managing multiple deadlines. However, if you encounter any issues or have questions while trying to use the code, please don't hesitate to contact us directly. We are happy to arrange a video call or assist you through any communication method that works best for you.
-
-### Roadmap
-
-- [x] Model architecture implementation
-- [x] Configuration files
-- [ ] Pre-training scripts
-- [ ] Fine-tuning scripts
-- [ ] Evaluation scripts
-- [ ] Pre-trained model weights
-- [ ] Dataset (will be released after the main conference)
-- [ ] Complete documentation and tutorials
-
 ## Overview
 
 PhySwin is a modified implementation of Swin Transformer V2 that incorporates MixMAE (Mixed Masked Autoencoder) pretraining for multi-spectral satellite imagery processing. The model is specifically designed for Sentinel-2 multispectral data with physically-informed architecture choices.
